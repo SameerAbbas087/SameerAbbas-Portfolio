@@ -103,9 +103,9 @@ DIVIDE ( [Total Disbursed] - [Disbursed LY], [Disbursed LY] )
 
 ## Screenshots
 
-![Portfolio Overview](screenshots/page1.png)
-![Risk and Default Analytics](screenshots/page2.png)
-![Customer and Branch Insights](screenshots/page3.png)
+![Portfolio Overview](screenshots/page1.jpg)
+![Risk and Default Analytics](screenshots/page2.jpg)
+![Customer and Branch Insights](screenshots/page3.jpg)
 
 ## Tools
 
