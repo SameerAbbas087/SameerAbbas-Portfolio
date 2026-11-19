@@ -10,7 +10,7 @@ decisions.
 
 ## 👨‍💻 About Me
 
--   Data Analyst with **3+ years of experience** across data analytics
+-   Data Analyst with **around 4 years of experience** across data analytics
     and business intelligence.
 -   Experienced in developing interactive dashboards and reporting
     solutions using **Power BI**.
